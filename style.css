@@ -37,7 +37,7 @@ body {
 
 .chat-window {
   height: 360px;
-  border: 1px solid #000;
+  border: 2px solid #ff003b;
   padding: 20px;
   font-size: 18px;
   line-height: 1.5;
@@ -81,7 +81,7 @@ body {
 
 .chat-form button {
   font-size: 18px;
-  background: #000;
+  background: #E3A535;
   color: #fff;
   border: none;
   padding: 12px;
@@ -140,4 +140,5 @@ body {
 
 .site-footer a:hover {
   color: #666666;
+}
 }
